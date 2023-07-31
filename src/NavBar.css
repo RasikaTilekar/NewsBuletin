@@ -1,0 +1,28 @@
+.navbar_buttons {
+  color: #025464;
+}
+@media screen and (min-width: 601px) {
+  .nav_bar {
+    font-size: 80px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  .nav_bar {
+    font-size: 30px;
+  }
+}
+
+.logo {
+  animation: fadeIn infinite 10s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

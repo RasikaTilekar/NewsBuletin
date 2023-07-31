@@ -1,0 +1,48 @@
+.app {
+  background-color: #dee3e7;
+}
+
+.newspaperIcon {
+  color: #025464;
+  margin: 20px;
+  transform: scale(1.8);
+}
+
+.alan_cards {
+  margin: 10px;
+  background-color: #f6f6f6;
+}
+
+.news_cards {
+  margin: 30px;
+}
+
+.news_card_content {
+  max-height: 100%;
+  overflow: auto;
+  padding-bottom: 0%;
+}
+
+.news_card_action {
+  background-color: #025464;
+}
+
+.nav_bar {
+  background-color: #dee3e7;
+}
+
+Button {
+  color: #f8f1f1;
+}
+
+.header {
+  background-color: aquamarine;
+  padding: 10px;
+  margin-inline: 20px;
+  margin-top: 80px;
+  border-radius: 20px;
+}
+
+.main {
+  border-radius: 20px;
+}

@@ -1,0 +1,14 @@
+.heading {
+  display: "flex";
+  align-items: "start";
+  justify-content: "space-between";
+  margin-inline: "20px";
+  margin-top: "10px";
+  top: "0px";
+  position: "sticky";
+  background-color: "white";
+  color: "#245564";
+  border-bottom: 1;
+  border-bottom-color: "#245564";
+  z-index: 1;
+}
